@@ -1,2 +1,3 @@
 Mòdul: Entorns de Desenvolupament
 Tema 1: Control de versions amb Git
+Ferramentes: Git, GitHub i Visual Studio Code
