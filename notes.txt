@@ -1,3 +1,4 @@
 Mòdul ED 1r DAW
+Mòdul: Entorns de Desenvolupament 2026
 Tema 1: Control de versions amb Git
 Ferramentes: Git, GitHub i Visual Studio Code
